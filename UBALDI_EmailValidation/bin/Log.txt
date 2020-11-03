@@ -1,0 +1,40 @@
+03/11/2020 19:31:54: start
+03/11/2020 19:36:38: ServiceSpamDetection launched...
+03/11/2020 19:36:38: Email adrien.martignoles@gmail.com is valid: False
+Extension or IP country code is not valid.
+
+03/11/2020 20:05:46: Email validation page launched...
+03/11/2020 20:05:50: Email a is valid: False
+
+03/11/2020 20:06:25: Email validation page launched...
+03/11/2020 20:06:31: Email a@ is valid: False
+
+03/11/2020 20:07:04: Email validation page launched...
+03/11/2020 20:07:04: Email 1a@test.com is valid: False
+Identifier should start with a letter not with 1.
+
+03/11/2020 20:07:22: Email validation page launched...
+03/11/2020 20:07:22: Email a@test.com is valid: True
+
+03/11/2020 20:22:42: Email validation page launched...
+03/11/2020 20:22:42: Email a@ is valid: False
+
+03/11/2020 20:22:51: Email validation page launched...
+03/11/2020 20:22:51: Email 1a@test.com is valid: False
+Identifier should start with a letter not with 1.
+
+03/11/2020 20:45:12: Email validation page launched...
+03/11/2020 20:45:12: Email a is valid: False
+
+03/11/2020 20:45:26: ServiceSpamDetection launched...
+03/11/2020 20:45:27: Email adrien.martignoles@gmail.com is valid: False
+Extension or IP country code is not valid.
+
+03/11/2020 22:05:20: Email validation page launched...
+03/11/2020 22:05:20: Email 1a@test.com is valid: False
+Identifier should start with a letter not with 1.
+
+03/11/2020 22:05:33: ServiceSpamDetection launched...
+03/11/2020 22:05:34: Email adrien.martignoles@gmail.com is valid: False
+Extension or IP country code is not valid.
+
